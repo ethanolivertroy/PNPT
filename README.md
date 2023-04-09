@@ -26,6 +26,8 @@ Optional courses, which may add value, include:
 - Linux Privilege Escalation for Beginners
 - Windows Privilege Escalation for Beginners
 
+![403E4B41-E0BB-4246-8E2F-1C898078ECDD_1_105_c](https://user-images.githubusercontent.com/63926014/230752069-e03174fe-af9c-4e5c-8fd4-b0dad38bdc3c.jpeg)
+
 ## Course Notes: 
 
 - [ ] [PEH-Practical Ethical Hacking](/PEH/Practical%20Ethical%20Hacking%20(PEH).md)
