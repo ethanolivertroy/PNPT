@@ -37,4 +37,4 @@ Optional courses, which may add value, include:
 - [ ] External Pentest Playbook
 - [ ] Movement, Pivoting and Persistence
 
-## Special Thanks to TCM Security for packing these coruses with tons of value!
+## Special Thanks to TCM Security for packing these courses with tons of value!
